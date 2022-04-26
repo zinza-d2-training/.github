@@ -8,3 +8,7 @@
 6. A Complete Guide to Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 7. The Rules of Margin Collapse: https://www.joshwcomeau.com/css/rules-of-margin-collapse/
 8. Figma Tutorials: https://www.youtube.com/playlist?list=PLZ52njWO5oxKNf7ZxH1YjH4lU80QefcZH
+
+#### VueJS
+
+1. Vuex Typescript https://www.youtube.com/watch?v=wRK1EZpicD0
